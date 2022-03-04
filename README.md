@@ -1,4 +1,4 @@
-### Hi there 👋
+# Hi there 👋
 
 <!--
 **Kasmi-Mimoun/Kasmi-Mimoun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### I'm Kasmi Mimoun a front-end web developer from Morocco.
+
+- ✨ I'm a self-taught developer.
+- ⚡ I have a passion for learning new concepts and technologies.
+- :muscle: I learned HTML / CSS / JavaScript / Sass / jQuery
+
+- 🌱 I’m currently learning React
